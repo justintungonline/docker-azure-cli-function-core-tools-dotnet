@@ -5,5 +5,5 @@ This repository contains a Docker image with Azure CLI 4.22 or later, Function C
 # Usage
 
 ```sh
-docker run -it  justintungonline/docker-azure-cli-function-core-tools-dotnet sh
+docker run -it  justintungonline/azure-cli-function-core-tools-dotnet:latest sh
 ````
